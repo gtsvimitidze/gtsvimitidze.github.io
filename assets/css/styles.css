@@ -481,7 +481,8 @@ a.dotted-link:hover {
 }
 
 .testimonials .item .quote .svg-inline--fa {
-  color: #79d19a;
+  /* color: #79d19a; */
+  color: #007bff;
   margin-right: 15px;
 }
 
@@ -545,7 +546,8 @@ a.dotted-link:hover {
 }
 
 .languages .item .svg-inline--fa {
-  color: #79d19a;
+  /* color: #79d19a; */
+  color: #007bff;
 }
 
 /* Blog Section */
